@@ -1,0 +1,17 @@
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\Testing_In_Console.exe.config
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\Testing_In_Console.exe
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\Testing_In_Console.pdb
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\obj\Debug\Testing_In_Console.csprojAssemblyReference.cache
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\obj\Debug\Testing_In_Console.csproj.CoreCompileInputs.cache
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\obj\Debug\Testing_In_Console.exe
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\obj\Debug\Testing_In_Console.pdb
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\UserManagement.dll
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\UserManagement.pdb
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\obj\Debug\Testing_In_Console.csproj.CopyComplete
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\EntityFramework.dll
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\UserManagement.dll.config
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\EntityFramework.xml
+C:\Users\Rajan\source\repos\imcs\Prz4\Testing_In_Console\bin\Debug\EntityFramework.SqlServer.xml

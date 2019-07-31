@@ -1,0 +1,12 @@
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\bin\Debug\UserManagement.dll
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\bin\Debug\UserManagement.pdb
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\obj\Debug\UserManagement.csprojAssemblyReference.cache
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\obj\Debug\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\obj\Debug\UserManagement.dll
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\obj\Debug\UserManagement.pdb
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\bin\Debug\UserManagement.dll.config
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\bin\Debug\EntityFramework.dll
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\bin\Debug\EntityFramework.xml
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rajan\source\repos\imcs\Prz4\UserManagement\obj\Debug\UserManagement.csproj.CopyComplete

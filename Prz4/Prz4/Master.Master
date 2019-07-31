@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Prz4.Master" %>
+
+<%@ Register Src="~/UserControl.ascx" TagPrefix="uc1" TagName="UserControl" %>
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head runat="server">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Online Ticket Booking - Home</title>
+ 
+  <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="vendors/themify-icons/themify-icons.css">
+  <link rel="stylesheet" href="vendors/linericon/style.css">
+  <link rel="stylesheet" href="vendors/owl-carousel/owl.theme.default.min.css">
+  <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
+  <link rel="stylesheet" href="vendors/flat-icon/font/flaticon.css">
+  <link rel="stylesheet" href="vendors/nice-select/nice-select.css">
+
+  <link rel="stylesheet" href="css/style.css">
+
+
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+    
+
+
+<body class="bg-shape">
+     <form id="form1" runat="server">
+                  
+                    <!--================ Header Menu Area start =================-->
+  <header class="header_area">
+    <div class="main_menu">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container box_1620">
+       
+                   
+          <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+            <ul class="nav navbar-nav menu_nav justify-content-end">
+              <li class="nav-item active"><a class="nav-link" href="Main.aspx">Home</a></li> 
+              <li class="nav-item"><a class="nav-link" href="Hotels.aspx">Hotels</a></li> 
+              <li class="nav-item"><a class="nav-link" href="Flights.aspx">Flights</a></li>
+              <li class="nav-item"><a class="nav-link" href="Bus.aspx">Bus Tickets</a></li>
+               <li class="nav-item submenu dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                  aria-expanded="false">Trending Offers</a>
+                <ul class="dropdown-menu">
+                  <li class="nav-item"><a class="nav-link" href="Deals.aspx">Trips</a></li>
+                  <li class="nav-item"><a class="nav-link" href="blog-details.html">Vacation Bonanza</a></li>
+                </ul>
+							</li>
+              <li class="nav-item"><a class="nav-link" href="Contact.aspx">Contact</a></li>
+            </ul>
+
+      
+            <div class="nav-right text-center text-lg-right py-4 py-lg-0">
+               <!--<a class="button" href="Login.aspx">Login/Signup</a>-->
+                <uc1:UserControl runat="server" id="UserControl" />    
+            </div>
+                  </div> 
+        </div>
+      </nav>
+    </div>
+  </header>
+
+    
+        <div>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </div>
+
+
+
+    </form>
+
+      <!--================Header Menu Area =================-->
+</body>
+</html>
+
+
+    
